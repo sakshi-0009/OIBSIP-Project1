@@ -2,7 +2,7 @@
 
 __Oasis Infobyte Internship - Task 1 :-__
 
-Completed Task 1 of name Online Reservation System in Java Peogramming language using Eclipse IDE.
+Completed Task 1 of name Online Reservation System in Java Programming language using Eclipse IDE.
 
 Steps Required : 
 
